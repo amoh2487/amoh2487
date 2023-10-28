@@ -10,7 +10,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/amoh2487/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+ https://www.instagram.com/Josh
 
 
 
